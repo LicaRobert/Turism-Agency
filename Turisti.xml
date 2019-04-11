@@ -1,0 +1,59 @@
+<Turisti>
+
+    <Turist id="1">
+    <nume>Lica Robert</nume>
+    <sex>M</sex>
+    <varsta>28</varsta>
+    <psejur>03.03.2018</psejur>
+    <ssejur>04.04.2018</ssejur>
+    <statiune>Sinaia</statiune>
+  </Turist>
+
+    <Turist id="2">
+    <nume>Alexandru Dica</nume>
+    <sex>M</sex>
+    <varsta>34</varsta>
+    <psejur>04.06.2018</psejur>
+    <ssejur>05.07.2018</ssejur>
+    <statiune>Ranca</statiune>
+  </Turist>
+
+    <Turist id="3">
+    <nume>Fira Adrian</nume>
+    <sex>M</sex>
+    <varsta>27</varsta>
+    <psejur>04.06.2018</psejur>
+    <ssejur>05.07.2018</ssejur>
+    <statiune>Ranca</statiune>
+  </Turist>
+
+    <Turist id="4">
+    <nume>Ionut Samfira</nume>
+    <sex>M</sex>
+    <varsta>24</varsta>
+    <psejur>03.01.2018</psejur>
+    <ssejur>15.02.2018</ssejur>
+    <statiune>Herculane</statiune>
+  </Turist>
+
+    <Turist id="5">
+    <nume>Irina Stoica</nume>
+    <sex>F</sex>
+    <varsta>45</varsta>
+    <psejur>12.08.2018</psejur>
+    <ssejur>20.08.2018</ssejur>
+    <statiune>Balvanyos</statiune>
+  </Turist>
+
+    <Turist id="6">
+    <nume>Alexandra Pop</nume>
+    <sex>F</sex>
+    <varsta>35</varsta>
+    <psejur>13.08.2018</psejur>
+    <ssejur>17.08.2018</ssejur>
+    <statiune>Balvanyos</statiune>
+  </Turist>
+
+  
+
+</Turisti>
